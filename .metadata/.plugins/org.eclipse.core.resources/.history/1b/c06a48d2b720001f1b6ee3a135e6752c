@@ -1,0 +1,9 @@
+package edu.scet.model;
+
+
+public class registerGUIBean {
+	String name;
+	String email;
+	String password;
+	String address;
+}

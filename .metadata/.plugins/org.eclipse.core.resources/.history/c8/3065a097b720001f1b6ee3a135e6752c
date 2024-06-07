@@ -1,0 +1,7 @@
+package edu.scet.model;
+
+
+public class registerGUIBean {
+	String name;
+	
+}

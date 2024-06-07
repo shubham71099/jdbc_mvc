@@ -1,0 +1,10 @@
+package edu.scet.dao;
+
+public class fetchData {
+	
+	public studentBean getData()
+	{
+		
+	}
+
+}

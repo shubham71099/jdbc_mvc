@@ -1,0 +1,15 @@
+package edu.scet.dao;
+
+import edu.scet.model.studentBean;
+
+public class fetchData {
+	
+	public studentBean getData()
+	{
+		
+		
+		
+		return sb;
+	}
+
+}

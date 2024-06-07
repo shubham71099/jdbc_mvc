@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Register</title>
+</head>
+<body>
+	<form action="" method="post">
+		<input type="text" name="name" placeholder="Enter name">
+		<input type="text" name="email" placeholder="Enter email">
+		<input type="password" name="password" placeholder="Enter password">
+		<input type="address" name="address" placeholder="Enter address">
+	</form>
+</body>
+</html>

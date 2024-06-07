@@ -1,0 +1,8 @@
+package edu.scet.model;
+
+public class studentBean {
+	String name;
+	String email;
+	String address;
+	
+}

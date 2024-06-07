@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Register</title>
+</head>
+<body>
+	<h3>Student Login </h3><br>
+	<form action="login" method="post">
+	
+		<input type="text" name="email" placeholder="Enter email"><br><br>
+		<input type="password" name="password" placeholder="Enter password"><br><br>
+		<input type="submit" value="Register">
+		
+	</form>
+</body>
+</html>
